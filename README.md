@@ -1,1 +1,1 @@
-# Shradhagupta
+# Garbage_classification
